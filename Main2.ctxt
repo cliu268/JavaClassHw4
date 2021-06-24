@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Main2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Main2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=A\ c
+comment10.target=boolean\ columnSum(int[][],\ int)
+comment2.params=A
+comment2.target=boolean\ duplicate(int[])
+comment3.params=A\ B
+comment3.target=int[]\ union(int[],\ int[])
+comment4.params=A\ B
+comment4.target=int[]\ intersection(int[],\ int[])
+comment5.params=A
+comment5.target=int[]\ reverse(int[])
+comment6.params=A
+comment6.target=int\ longestContinuousSubsequence(int[])
+comment7.params=A\ i
+comment7.target=int[]\ ithRow(int[][],\ int)
+comment8.params=A\ B
+comment8.target=int[][]\ sum(int[][],\ int[][])
+comment9.params=A\ c
+comment9.target=boolean\ checkSum(int[][],\ int)
+numComments=11
