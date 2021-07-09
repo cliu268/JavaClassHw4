@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Square\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sidelength\ color
+comment1.target=Square(int,\ java.lang.String)
+comment2.params=sidelength
+comment2.target=Square(int)
+comment3.params=
+comment3.target=Square()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=int\ getSidelength()
+comment6.params=color
+comment6.target=void\ setColor(java.lang.String)
+comment7.params=sidelength
+comment7.target=void\ setSidelength(int)
+comment8.params=one\ two
+comment8.target=boolean\ compare(Square,\ Square)
+comment9.params=color
+comment9.target=void\ mix(java.lang.String)
+numComments=10
