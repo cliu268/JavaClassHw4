@@ -49,7 +49,7 @@ public class Student extends Person
     
     public boolean canTryOutForBasketball()
     {
-        return this.getHeight() > 6;
+        return super.getHeight() > 6;
     }
     
     // Q: What methods in Student override methods in Person?
